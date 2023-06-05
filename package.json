@@ -17,7 +17,7 @@
   },
   "homepage": "https://github.com/nextbill-jeff/csvReadAndSave#readme",
   "dependencies": {
-    "csv-parser": "^2.1.0",
+    "csv-parser": "^2.3.5",
     "event-stream": "^4.0.1",
     "express": "^4.16.4",
     "fs": "0.0.1-security",
